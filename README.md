@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my GitHub portfolio! This has most of the projects I've worked on during my time at university (undergrad and grad school), as well as personal projects. Though I try to code when I can during my free time, often other priorities in life prevent me from updating here too much such as family, friends, hobbies, health, etc. Most of the coding I do nowadays is during my day job where I commit almost daily, but because it's private to my company's domain, I can't share that work with you. Please do take a look at some of my favorite repos below!
+
 <!--
 **cww5/cww5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
