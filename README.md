@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This has most of the projects I've worked on dur
 
 Skills: Python / Azure / R / SQL / ML / AI
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on [automating my financials](https://github.com/cww5/bank-statement-utility) using pdftotext (because I'm too lazy to budget and figured this might help me get started and also inspire me to practice coding!). 
 - 🌱 I’m currently learning Excel and Tableau 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I've been playing Pokemon VGC on and off since gen 4 
